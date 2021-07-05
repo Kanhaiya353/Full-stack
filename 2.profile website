@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>kanhaiya</title>
+  </head>
+  <body>
+    <img src="https://scontent.fdel24-1.fna.fbcdn.net/v/t1.6435-9/88240508_492986474cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Z0DIXkGK71UAX8syAD5&_nc_ht=scontent.fdel24-1.fna&oh=51950d65010fbf1c896bd3b26e7b5944&oe=60E73A45" alt="kanhaiya profile picture">
+    <h1>Kanhaiya</h1>
+<p>
+<em>I am a founder and <strong>CEO of Ycompile</strong></em>
+  </p>
+  <p>
+    I am web developer and I love to do coding,running.
+    </p>
+  <hr>
+  <h2>Education</h2>
+  <ul>
+    <li>
+      Bachelor Degree of Computer Science,Lovely Professional University.
+    </li>
+    <li>
+
+      K.C.M Public Sr Sec School Banchari
+
+    </li>
+    <li>
+      K.C.M Public High School Hassanpur
+    </li>
+  </ul>
+
+  <h3>Hobbies</h3>
+  <ol>
+    <li>
+      Zyming
+    </li>
+    <li>
+      reading books
+    </li>
+  </ol>
+  </body>
+</html>
