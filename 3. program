@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>brolli</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <h1 >I LOVE PIZZA</h1>
+    <p>
+      pizza,pizza,pizza,pizza,pizza,pizza,pizza,pizza,pizza,<br>
+      pizza,pizza,pizza,pizza,pizza,pizza,pizza,pizza,pizza,<br>
+      pizza,pizza,pizza,pizza,pizza,pizza,pizza,pizza,pizza,<br>
+      </p>
+
+
+       <img class="a" src="https://hotemoji.com/images/emoji/r/6z6f7w1y65ofr.png" alt="">
+      <img  class="b" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/broccoli_1f966.png" alt="pizza">
+  </body>
+</html>
+
+
+
+css----------------------------
+body{
+  background-color: red;
+}
+
+
+/* #heading
+{
+  background-color: pink;
+} */
+img
+{
+  background-color:red;
+}
+.a{
+  background-color: yellow;
+}
+.b{
+  background-color: black;
+}
