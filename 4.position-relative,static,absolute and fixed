@@ -1,0 +1,32 @@
+html code
+---------------------------------------------
+<div class="red">
+</div>
+<div class="blue">
+</div>
+<div class="green">
+</div>
+---------------------------------------------
+css code
+.red
+{
+ background-color:red; 
+  height:100px;
+  width:100px;
+  display:inline-block;
+
+  left:100px;
+}
+.blue{
+  background-color:blue;
+  height:100px;
+  width:100px;
+  display:inline-block;
+}
+.green
+{
+  background-color:green;
+  height:100px;
+  width:100px;
+  display:inline-block;
+}
