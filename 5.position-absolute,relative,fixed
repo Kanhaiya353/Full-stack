@@ -1,0 +1,51 @@
+-----------------HTML----------------------
+<body>
+ <div class="con">
+<div class="red">
+
+  </div>
+  </div>
+<div class="blue">
+</div>
+<div class="green">
+</div>
+</body>    
+----------------------CSS---------------------
+body
+{
+  margin:0;
+}
+.con
+{
+  background-color:grey; 
+  height:300px;
+  width:300px; 
+  position:relative;
+}
+.red
+{
+  background-color:red; 
+  height:100px;
+  width:100px;
+  position:absolute;
+  top:40px;
+  left:30px;
+}
+.blue{
+  background-color:blue;
+  height:100px;
+  width:100px;
+  position:absolute;
+ 
+  top:0px;
+
+}
+.green
+{
+  background-color:green;
+  height:100px;
+  width:100px;
+  position:absolute;
+  left:200px;
+ 
+}
